@@ -161,4 +161,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ### 🌟🌱 Shop Green, Shop Smart, Shop Eco-Shop! 🌟🌱
+[ECO-SHOP1 (1).pdf](https://github.com/user-attachments/files/18221926/ECO-SHOP1.1.pdf)
 
