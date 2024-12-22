@@ -1,12 +1,12 @@
 <div align="center">
   <h1>🌿 Welcome to ECO-SHOP 🌿</h1>
 </div>
-
 <div align="center">
-  <h2>Empowering Sustainable Living through AI Analysis</h2
+  <h1>Empowering Sustainable Living through AI Analysis</h1>
 </div>
- 
 
+
+ 
 ![image](https://github.com/user-attachments/assets/f768e0e3-5f3b-4543-8dc5-6a5cd31caca8)
 
 Welcome to **Eco-Shop**! 🌱 This is an AI-powered application aimed at empowering sustainable living by providing eco-friendly analysis of products through AI. The app analyzes uploaded product images and user input to generate detailed insights, including nutritional information, environmental impact, and suggestions for healthier and more sustainable alternatives.
@@ -164,4 +164,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### 🌟🌱 Shop Green, Shop Smart, Shop Eco-Shop! 🌟🌱
 [ECO-SHOP1 (1).pdf](https://github.com/user-attachments/files/18221926/ECO-SHOP1.1.pdf)
-
+ let  this also be in middle
