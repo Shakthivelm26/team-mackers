@@ -2,8 +2,10 @@
   <h1>🌿 Welcome to ECO-SHOP 🌿</h1>
 </div>
 
-
-                   **Empowering Sustainable Living through AI Analysis**
+<div align="center">
+  <h2>Empowering Sustainable Living through AI Analysis</h2
+</div>
+ 
 
 ![image](https://github.com/user-attachments/assets/f768e0e3-5f3b-4543-8dc5-6a5cd31caca8)
 
